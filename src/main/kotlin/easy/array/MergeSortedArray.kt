@@ -1,10 +1,11 @@
 package easy.array
 
 /*
-If two array size m and n then make one array size m+n
+If two array size m and n then make one array size m+n with 0 value
 i point last item one array
 j point last item of second array
 k point to last of index of array one
+Run a loop second array all item move to traverse j>=0
 if i < 0 || array one item less than array second
     then set second array to k
      k--
