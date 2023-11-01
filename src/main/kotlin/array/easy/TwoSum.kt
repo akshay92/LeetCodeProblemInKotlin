@@ -1,4 +1,4 @@
-package easy.array
+package array.easy
 
 /*
 Maintain a map of number and index

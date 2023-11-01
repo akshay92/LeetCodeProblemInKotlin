@@ -1,4 +1,4 @@
-package easy.array
+package array.easy
 
 /*
 Run loop from last to start index

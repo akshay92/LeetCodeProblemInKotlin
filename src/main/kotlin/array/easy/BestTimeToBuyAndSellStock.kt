@@ -1,4 +1,4 @@
-package easy.array
+package array.easy
 
 import kotlin.math.max
 

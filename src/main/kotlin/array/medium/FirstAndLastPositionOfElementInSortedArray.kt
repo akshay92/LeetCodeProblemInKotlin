@@ -1,4 +1,4 @@
-package medium
+package array.medium
 
 class FirstAndLastPositionOfElementInSortedArray {
 

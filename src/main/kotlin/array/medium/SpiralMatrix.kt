@@ -1,4 +1,4 @@
-package medium
+package array.medium
 
 class SpiralMatrix {
     fun spiralOrder(matrix: Array<IntArray>): List<Int> {

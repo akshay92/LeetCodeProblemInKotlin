@@ -1,4 +1,4 @@
-package easy.array
+package array.easy
 
 /*
 If two array size m and n then make one array size m+n with 0 value
